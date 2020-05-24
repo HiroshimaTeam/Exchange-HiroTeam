@@ -1,0 +1,61 @@
+---
+#Exchange plugin by HiroTeam | Plugin de Bourse par la HiroTeam
+#██╗░░██╗██╗██████╗░░█████╗░████████╗███████╗░█████╗░███╗░░░███╗
+#██║░░██║██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗░████║
+#███████║██║██████╔╝██║░░██║░░░██║░░░█████╗░░███████║██╔████╔██║
+#██╔══██║██║██╔══██╗██║░░██║░░░██║░░░██╔══╝░░██╔══██║██║╚██╔╝██║
+#██║░░██║██║██║░░██║╚█████╔╝░░░██║░░░███████╗██║░░██║██║░╚═╝░██║
+#╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+#description:
+#ENG: It is a purse plugin which allows you to change the price of items relative to the number of items purchased according to a time, the uptime !
+#FRA: C'est un plugin de bourse qui permet de changer le prix des items par rapport au nombre d'item acheté selon un temps, le uptime !
+
+title: "§5ExChange by §4Hiro§bTeam"
+shoptext: "§aHere is the Item list"
+button: "§6{item} §5{price} $/u"
+shopitemtext: "§aSell §e{item} §afor §e{price} §a$/u"
+numberofitem: "§2Number"
+successell: "§aYou sold well §e{number} {item} §afor §e{total} §a$"
+noitem: "§cYou haven't this Item"
+text: "§6the §e{item} §6price is §e{price}§6 $/u"
+
+uptime: 60 #This is the price and quota update time in minutes. Every this time, the quota is set 0 and the price change. | C'est le temps de rafraichissement de la bourse, chaque fois que ce temps est écoulé, le quota est remis a 0 et le prix se met a jour !
+
+add: #You can add as many items as you want | Vous pouvez ajouter autant d'item que vous voulez dans votre bourse 
+  "diamond": # = {item} name. Please do not use the same name twice ! | Represente {item}, Merci de ne pas mettre 2x le meme nom 
+    itemid: ["264","0"] #id Meta
+    minprice: 1 #the minimum price | prix
+    maxprice: 10 #the maximum price | prix
+    startprice: 5 #start price | prix de depart
+    quotamin: 250 #quota min to sell. If you are below this quota the price increases | quota minium de la vente, si vous etes en dessous, le prix du produit augmente
+    quotamax: 500 #quota max to sell. If you are above this quota, the price drops | quota maximum de la vente, si vous etes au dessus, le prix baisse
+    addition: 0.2 #add to the price if you are below the min quota | Montant qui s'ajoute lorsque le prix augmente
+    remove: 0.4 #remove to the price if you are above the max quota | Montant qui se retire lorsque le prix baisse
+  "iron ingot":
+    itemid: ["265","0"]
+    minprice: 1
+    maxprice: 5
+    startprice: 2
+    quotamin: 250
+    quotamax: 500
+    addition: 0.3
+    remove: 0.1
+  "gold ingot":
+    itemid: ["266","0"]
+    minprice: 1
+    maxprice: 7
+    startprice: 3
+    quotamin: 250
+    quotamax: 500
+    addition: 0.4
+    remove: 0.2
+  charcoal:
+    itemid: ["263","0"]
+    minprice: 1
+    maxprice: 10
+    startprice: 2
+    quotamin: 250
+    quotamax: 500
+    addition: 0.5
+    remove: 0.1
+...

@@ -1,0 +1,10 @@
+name: ExChange-HiroTeam
+main: exchange\Main
+version: 1.0.0
+api: 3.0.0
+author: HiroTeam
+description: ExChange/Bourse Plugin
+commands:
+  exchange:
+    description: use exchange command
+    usage: /exchange
