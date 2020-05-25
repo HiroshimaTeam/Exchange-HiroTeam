@@ -1,4 +1,4 @@
-name: ExChange-HiroTeam
+name: ExChange
 main: HiroTeam\exchange\ExChange
 version: 1.0.0
 api: 3.0.0
