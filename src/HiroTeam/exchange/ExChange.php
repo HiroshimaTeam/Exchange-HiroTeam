@@ -123,11 +123,12 @@ class ExChange extends PluginBase implements Listener
     }
     public function onCommand(CommandSender $sender, Command $command, string $label, array $args): bool
     {
-        if ($sender instanceof Player) {
-            if ($command -> getName() === "exchange") {
+        if ($command -> getName() === "exchange") {
+            if ($sender instanceof Player) {
                 $this -> OpenShopListUI($sender);
                 return true;
             }
+            return false;
         }
     }
     public function OpenShopListUI($player)
