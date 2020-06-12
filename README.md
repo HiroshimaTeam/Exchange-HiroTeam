@@ -8,7 +8,7 @@
 ---
 ### How to use
 [ENG] Do /exchange and then a ExchangeUI appears so that players can sell their item according to the price of the current purse.</br>
-Tip: Put the command on a slapper!</br></br>
+Tip: Put the command on a slapper!</br>
 
 [FRA] Faite /exchange et ensuite une bourseUI apparait pour que les joueurs puissent vendre leur item selon le prix de la bourse actuelle.</br>
 Astuce: Mettez la commande sur un slapper !
