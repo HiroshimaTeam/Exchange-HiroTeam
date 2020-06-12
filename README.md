@@ -16,7 +16,8 @@ Astuce: Mettez la commande sur un slapper !
 
 ##### Here is the video:
 - Exchange Pocketmine **BETA VERSION** plugin in [Youtube](https://www.youtube.com/watch?v=psV-RhhW3Zk) !
-
+- Exchange Pocketmine **OFFICIAL** plugin in __Youtube__ ! __no video yet__
+###### Have you made a video? Contact me to put it [here](https://discord.gg/WuwsuUA):exclamation:
 ---
 ### **This plugin was tested (and works) on:**
 
