@@ -1,4 +1,5 @@
-# Exchange-HiroTeam pocketmine | Bourse-HiroTeam pocketmine 
+# Exchange-HiroTeam pocketmine
+# Bourse-HiroTeam pocketmine 
 ![Exchange](https://zupimages.net/up/20/24/4988.png)
 ---
 ### About
@@ -37,7 +38,7 @@ Astuce: Mettez la commande sur un slapper !
 > ╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
 ---
 ### License
-HiroshimaTeam/C4-HiroTeam is licensed under the
+HiroshimaTeam/Exchange-HiroTeam is licensed under the
 
 > Apache License 2.0
 >A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express > grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
