@@ -1,5 +1,5 @@
-# Exchange-HiroTeam pocketmine **OFFICIAL***
-# Bourse-HiroTeam pocketmine **OFFICIEL**
+# Exchange-HiroTeam pocketmine __**OFFICIAL**__
+# Bourse-HiroTeam pocketmine __**OFFICIEL**__
 ![Exchange](https://zupimages.net/up/20/24/4988.png)
 ---
 ### About
