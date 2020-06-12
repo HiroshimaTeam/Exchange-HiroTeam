@@ -1,5 +1,5 @@
-# Exchange-HiroTeam pocketmine
-# Bourse-HiroTeam pocketmine 
+# Exchange-HiroTeam pocketmine **OFFICIAL***
+# Bourse-HiroTeam pocketmine **OFFICIEL**
 ![Exchange](https://zupimages.net/up/20/24/4988.png)
 ---
 ### About
@@ -15,7 +15,7 @@ Tip: Put the command on a slapper!</br>
 Astuce: Mettez la commande sur un slapper !
 
 ##### Here is the video:
-- Exchange Pocketmine plugin in [Youtube](https://www.youtube.com/watch?v=psV-RhhW3Zk) !
+- Exchange Pocketmine **BETA VERSION** plugin in [Youtube](https://www.youtube.com/watch?v=psV-RhhW3Zk) !
 
 ---
 ### **This plugin was tested (and works) on:**
